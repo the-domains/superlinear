@@ -1,7 +1,7 @@
 name: Superlinear
 favicon: null
-layout_spectrum: 0.5248904374893755
-typography_spectrum: 0.4421510922256857
+layout_spectrum: 0.29148
+typography_spectrum: 0.50393
 title: 'Superlinear Limited, London, UK.'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.34630057285539806
-  lightness: 0.030614511808380485
-  saturation: 0.41720660985447466
-  rhythmicContrast: 0.6103174085728824
+    - '#fad961'
+    - '#000000'
+    - '#f66b1c'
+    - '#806f32'
+    - '#572500'
+  brandStrength: 0.3125
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
